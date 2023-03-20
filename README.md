@@ -1,1 +1,1 @@
-# Javascript-Calulator
+# This is a Javascript calculator that I created by myself over the course of a few days via a tutorial. Decent work so far. The project was cut short because I had to move on because I was behind schedule. The tutorial I folowed was https://www.section.io/engineering-education/building-a-calculator-a-javascript-project-for-beginners/. I will certainly change up the calculator over some time. 
